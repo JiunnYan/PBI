@@ -1,4 +1,4 @@
-# PBI
+# SPDR S&P 500 (SPY) Perormance Overview
 This is a project showcasing the SPDR SPY 500 performance overview.
 <br /><br /> The SPDR S&P 500 ETF trust is an exchange-traded fund which trades on the NYSE Arca under the symbol SPY (NYSE Arca: SPY). SPDR is an acronym for the Standard & Poor's Depositary Receipts, the former name of the ETF. It is designed to track the S&P 500 stock market index. This fund is the largest and oldest ETF in the USA.
 <br /><br /> Please note that the latest data in this project is updated as of (1st June 2024). 
