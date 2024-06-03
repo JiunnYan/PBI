@@ -5,6 +5,8 @@ This is a project showcasing salary insights and salary trends for data related 
 <br /><br />Do keep in mind that Malaysia's salary data is not included as this report aims to merely observe salary trends globally and not domestically.
 <br /><br />**Please note that all salary data depicted in this project is in Malaysian Ringgit (MYR) and represented BY GROSS MONTHLY SALARY and NOT BY GROSS ANNUAL SALARY**
 
+<br />**Dataset (Source):** https://ai-jobs.net/salaries/2023/
+
 <br />
 
 ![image](https://github.com/JiunnYan/PBI/assets/171431218/164a1255-92a3-4402-bd50-b2246f15643f)
